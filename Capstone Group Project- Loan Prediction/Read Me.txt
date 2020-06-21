@@ -1,0 +1,4 @@
+This is a group projects on predicting loan performance and creating a credit classification frame work based on masked account details.
+The code is contained in the Jupyter notebook titled Group 3 Project code
+The Powerpoint presentation titled Thought Process for Loan Classification Model in Python contains details about the project execution.
+The data used can be found at this link https://drive.google.com/drive/folders/1Cw2DW7EswUvjlDa21rEDpx1A19sxXllJ?usp=sharing for reproduction and execution
