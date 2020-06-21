@@ -1,0 +1,11 @@
+Read Me
+
+How To Use
+The file containing the code for this project is a jupyter notebook file (Submission_Notebook.ipynb). To access it, you can either download jupyter notebooks or upload the file on google collab.
+The London smart meters dataset can be downloaded from https://www.kaggle.com/data-exploration-smart-meters-london
+
+Brief Explanation
+Each row in the 'block' datasets contain data about individual houses- identified by a location id LCLid. Fields like energy sum, average energy used, standard deviation etc refer to how much energy is used in each house on a corresponding day. This noteboook explores the data, drawing insights based on different clusters and eventually making future time series forecasts 
+
+The Notebook
+The appropriate files are loaded and Feature engineering and exploratory data analysis were done. Finally two predictive models were built to make predictions on the data
